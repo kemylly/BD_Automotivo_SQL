@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BDAutomotivo", "BDAutomotivo\BDAutomotivo.ssmssqlproj", "{6A65FBF1-8467-4AE2-8F46-872774FB97BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A65FBF1-8467-4AE2-8F46-872774FB97BC}.Default|Default.ActiveCfg = Default
+		{DB4911E4-D0D7-40CB-8E75-B4BB97FDCCC8}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
